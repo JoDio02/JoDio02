@@ -11,7 +11,7 @@ I'm the only engineer at a legal-tech startup, where I keep a production AI lega
 
 ## Featured projects
 
-### [Travel Mail AI](https://github.com/JoDio02/travel-agency): email automation for travel agencies
+### Travel Mail AI: email automation for travel agencies (private repo, code available on request)
 `Python` `FastAPI` `Celery` `Redis` `PostgreSQL` `Ollama` `React` `TypeScript` `Docker`
 - Reads partner reservation emails over IMAP, extracts booking data with a **local LLM constrained by JSON Schema**, and writes approved bookings to a master Excel file.
 - Celery + Redis queues with retries and scheduled jobs, plus SPF/DKIM/DMARC sender checks. Per-field confidence scores send doubtful results to an operator for review.
