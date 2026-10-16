@@ -1,6 +1,6 @@
 # Oğuzhan Altuntaş
 
-**Backend Software Developer · Java / Spring Boot · Python · PostgreSQL · AI integration**
+**Backend Software Developer · Java / Spring Boot · Python · PostgreSQL · AI integration**  
 Ankara, Türkiye · Open to relocating to Canada (Ottawa preferred)
 
 I'm the only engineer at a legal-tech startup, where I keep a production AI legal-research platform running (Python microservices, React, PostgreSQL, Google Cloud). Before that I interned at **HAVELSAN** (PostgreSQL high availability, Ansible) and **ASELSAN** (fine-tuning LLMs). I like backend systems that are tested, observable and boring to operate.
@@ -37,10 +37,10 @@ I'm the only engineer at a legal-tech startup, where I keep a production AI lega
 - **AI Intern, ASELSAN**: 2024. Fine-tuned GPT-2 with Hugging Face Transformers for a Turkish dictionary prototype.
 
 ## Tech
-**Languages:** Java, Python, TypeScript, JavaScript, SQL, C
-**Backend:** Spring Boot, FastAPI, REST, RabbitMQ, Celery, microservices
-**Data:** PostgreSQL (Patroni, pgvector, PostGIS), MySQL, Redis, MongoDB
-**AI:** RAG, embeddings, local LLMs (Ollama), Hugging Face, ONNX, OpenCV
-**Ops:** Docker, Google Cloud, Linux, Ansible, Git
+- **Languages:** Java, Python, TypeScript, JavaScript, SQL, C
+- **Backend:** Spring Boot, FastAPI, REST, RabbitMQ, Celery, microservices
+- **Data:** PostgreSQL (Patroni, pgvector, PostGIS), MySQL, Redis, MongoDB
+- **AI:** RAG, embeddings, local LLMs (Ollama), Hugging Face, ONNX, OpenCV
+- **Ops:** Docker, Google Cloud, Linux, Ansible, Git
 
 🎓 B.Sc. Software Engineering, Çankaya University (English-medium), 2026 · English C1
